@@ -23,8 +23,7 @@ Here its possible to follow the progress each week of the course.
 - Course Outline and Overview.
 
 - 🚀 ***Assigment***:
-  - Summary of the 3 first chapters of the book: "Designing Machine Learning Systems" By Chip Huyen
-  -  [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_autocompleter)
+  - Summary of the 3 first chapters of the book: "Designing Machine Learning Systems" By Chip Huyen [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_01/Assigments/FirstSummary.md)
 
 ---
 #### :books: Week 02:
