@@ -23,10 +23,17 @@ Here its possible to follow the progress each week of the course.
 - Course Outline and Overview.
 
 - 🚀 ***Assigment***:
-  - Summary of the 3 first chapters of the book: "Designing Machine Learning Systems" By Chip Huyen [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_01/Assigments/FirstSummary.md)
+  - **Task 1**: Summary - *First three chapters of the book: "Designing Machine Learning Systems" By Chip Huyen* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_01/Task_01/FirstSummary.md)
 
 ---
 #### :books: Week 02:
+- 🚀 ***Assigments***: 
+  - **Task 1**: Article Analysis - *On the Societal Impact of Open Foundation Models* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_02/Task_01/ArticleAnalysis.md)
+  - **Task 2**: Key Points on Training Data - *chapter 4 of the book: "Designing Machine Learning Systems" By Chip Huyen* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_02/Task_02/KeyPointsTrainingData.md)
+
+---
+#### :books: Week 03:
+
 - In progress...
 
 
