@@ -27,6 +27,8 @@ Here its possible to follow the progress each week of the course.
 
 ---
 #### :books: Week 02:
+- Fundamentals and first steps about the study of Machine Learning models.
+
 - 🚀 ***Assigments***: 
   - **Task 1**: Article Analysis - *On the Societal Impact of Open Foundation Models* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_02/Task_01/ArticleAnalysis.md)
   - **Task 2**: Key Points on Training Data - *chapter 4 of the book: "Designing Machine Learning Systems" By Chip Huyen* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_02/Task_02/KeyPointsTrainingData.md)
@@ -34,7 +36,12 @@ Here its possible to follow the progress each week of the course.
 ---
 #### :books: Week 03:
 
-- In progress...
+- Effective Theory Approach in Deep Learning
+- Effective Theory Approach in Deep Learning
+- Gradient Descent with PyTorch
+
+- 🚀 ***Assigments***: 
+  - In progress...
 
 
 # References:
