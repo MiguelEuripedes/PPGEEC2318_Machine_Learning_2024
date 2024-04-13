@@ -4,7 +4,9 @@
 
 Provide a detailed summary of the chapter five, on Feature Engineering, from the book ["Designing Machine Learning Systems."](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/).
 
-<center><img width="800" src="../../Imgs/Chapter5_DMLS.png"></center>
+<p align="center">
+  <img width="800" src="../../Imgs/Chapter5_DMLS.png">
+</p>
 
 ## 📚 **Chapter Summary**
 
