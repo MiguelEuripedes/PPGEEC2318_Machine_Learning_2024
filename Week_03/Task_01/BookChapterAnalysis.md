@@ -4,7 +4,9 @@
 
 Perform a thorough analysis of chapter 0 (zero) of the book **'The Principles of Deep Learning Theory'** available here [[link]](https://arxiv.org/pdf/2106.10165.pdf).
 
-<center><img width="800" src="../../Imgs/Chapter0_DLT.png"></center>
+<p align="center">
+  <img width="800" src="../../Imgs/Chapter0_DLT.png">
+</p>
 
 
 ### 📚 Chapter Analysis
