@@ -41,13 +41,14 @@ Here its possible to follow the progress each week of the course.
 - Gradient Descent with PyTorch
 
 - 🚀 ***Assigments***: 
-  - In progress...
+  - **Task 1**: Book Chapter Analysis - *Chapter 0 of the book: "The Principles of Deep Learning Theory"* [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_03/Task_01/BookChapterAnalysis.md)
+  - **Task 2**: Detailed Summary on Feature Engineering - *chapter 5 of the book: "Designing Machine Learning Systems" By Chip Huyen*[![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/PPGEEC2318_Machine_Learning_2024/blob/main/Week_03/Task_02/KeyPointsFeatureEngineering.md)
 
 
 # References:
 - 📚 [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - 📚 [Ivanovitch's repository](https://github.com/ivanovitchm/PPGEEC2318)
-
+- 📚 [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf)
 
 
 

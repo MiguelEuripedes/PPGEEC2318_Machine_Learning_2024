@@ -22,6 +22,10 @@
 
 Extract and summarize 10 crucial insights about Training Data from Chapter 4 of Chip Huyen's book, ["Designing Machine Learning Systems."](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
+---
+
+<center><img width="800" src="../../Imgs/Chapter4_DMLS.png"></center>
+
 ### 📚 Key Points 
 
 #### 📑Insights Extracted and Descriptions:

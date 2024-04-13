@@ -4,6 +4,12 @@
 
 Critically analyze the article [*On the Societal Impact of Open Foundation Models*](https://arxiv.org/pdf/2403.07918.pdf) deliberating on the sharing of models in ML, examining both the favorable aspects and the drawbacks
 
+---
+
+<center><img width="800" src="../../Imgs/ArticleAnalysis1.png"></center>
+
+
+
 ### 📚 Article Examination Paragraphs
 ---
 #### 👍Positive aspects:

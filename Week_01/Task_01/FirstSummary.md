@@ -1,6 +1,9 @@
 
 # Foundations - Machine Learning Systems Design
 
+<center><img width="800" src="../../Imgs/Chapter123_DMLS.png"></center>
+
+
 ## Summary of Chapters 1, 2, and 3:
 
 Machine learning (ML) systems go beyond just algorithms (like logistic regression). They involve the entire process, from initial business needs to user interfaces and data infrastructure. This includes model development, monitoring, updates, and supporting systems. In the first 3 chapters of the book "Designing Machine Learning Systems," the author Chip Huyen, provides a great overview to understand ML systems, as well as the foundational knowledge for ML Systems Design and Data Engineering. In essence, the book's objective is to equip readers with a comprehensive framework tailored to develop solutions that effectively address their specific problems,regardless of the chosen algorithm's intricacies.
