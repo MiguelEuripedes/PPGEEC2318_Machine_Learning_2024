@@ -1,6 +1,11 @@
 
 # :computer: **PPGEEC2318 - Machine Learning**
 
+<p align="center">
+  <img width="800" src="/Imgs/Learning.png">
+</p>
+
+
 #### :pushpin: *About this Repository*:
 This repository aims to store my answers to assigments and display the progress made troughtout the course. Here you will find the projects made along with some basic weekly insights about the course's advancement.
 
@@ -11,12 +16,6 @@ This course is called Machine Learng, and its taught by [Prof. Ivanovitch Silva]
 My name is Miguel Euripedes, I have a degree in Science and Technology from the Universidade Federal do Rio Grande do Norte and I'm currently pursing a degree in Computer Engineering by the same university. I'm member of the [Conect2Ai](https://github.com/conect2ai) Research Group and Machine Learning and AI enthusiast. Feel free to reach me on [LinkedIn! ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/migueleuripedes)
 
 &nbsp;
-
-<p align="center">
-  <img width="500" src="/Imgs/Learning.png">
-</p>
-
-
 
 # :calendar: **Weekly Progress**:
 Here its possible to follow the progress each week of the course. 
