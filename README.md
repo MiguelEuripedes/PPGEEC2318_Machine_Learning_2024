@@ -9,9 +9,12 @@ This course is called Machine Learng, and its taught by [Prof. Ivanovitch Silva]
 
 #### 🚀 *About the Author*:
 My name is Miguel Euripedes, I have a degree in Science and Technology from the Universidade Federal do Rio Grande do Norte and I'm currently pursing a degree in Computer Engineering by the same university. I'm member of the [Conect2Ai](https://github.com/conect2ai) Research Group and Machine Learning and AI enthusiast. Feel free to reach me on [LinkedIn! ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/migueleuripedes)
+
 &nbsp;
 
-
+<p align="center">
+  <img width="500" src="/Imgs/Learning.png">
+</p>
 
 
 

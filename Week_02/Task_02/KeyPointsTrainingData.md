@@ -24,7 +24,9 @@ Extract and summarize 10 crucial insights about Training Data from Chapter 4 of 
 
 ---
 
-<center><img width="800" src="../../Imgs/Chapter4_DMLS.png"></center>
+<p align="center">
+  <img width="800" src="../../Imgs/Chapter4_DMLS.png">
+</p>
 
 ### 📚 Key Points 
 

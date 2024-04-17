@@ -6,8 +6,9 @@ Critically analyze the article [*On the Societal Impact of Open Foundation Model
 
 ---
 
-<center><img width="800" src="../../Imgs/ArticleAnalysis1.png"></center>
-
+<p align="center">
+  <img width="800" src="../../Imgs/ArticleAnalysis1.png">
+</p>
 
 
 ### 📚 Article Examination Paragraphs

@@ -1,8 +1,9 @@
 
 # Foundations - Machine Learning Systems Design
 
-<center><img width="800" src="../../Imgs/Chapter123_DMLS.png"></center>
-
+<p align="center">
+  <img width="800" src="../../Imgs/Chapter123_DMLS.png">
+</p>
 
 ## Summary of Chapters 1, 2, and 3:
 
